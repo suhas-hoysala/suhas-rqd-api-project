@@ -38,7 +38,7 @@ or, you can pass the server address and port as arguments:
 java -jar build/libs/message-processing-server.jar --serverAddress=[url] --serverPort=[port]
 ```
 
-Replace `[serverAddress]` and `[port]` with the desired server url and port number. e.g. `127.0.0.1` and `8081`.
+Replace `[serverAddress]` and `[port]` with the desired server address and port number. e.g. `127.0.0.1` and `8081`.
 
 ## Endpoints
 
